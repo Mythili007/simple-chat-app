@@ -1,0 +1,23 @@
+{
+  "name": "simple-chat-app",
+  "version": "1.0.0",
+  "description": "Real time simple chat application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mythili007/simple-chat-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mythili007/simple-chat-app/issues"
+  },
+  "homepage": "https://github.com/Mythili007/simple-chat-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1"
+  }
+}
